@@ -11,7 +11,8 @@ function App() {
 
         <div className='flex-2 pl-6 space-y-6 text-left'>
           <span className='font-montserrat text-white uppercase text-xl tracking-widest'>
-            Welcome to my portfolio 👋
+            Welcome to my portfolio{" "}
+            <span className="inline-block origin-[70%_70%] animate-wave px-4 scale-150">👋</span>
           </span>
           <div className="space-y-2 font-montserrat text-white text-2xl md:text-4xl lg:text-7xl">
             <h1 className="font-bold">
